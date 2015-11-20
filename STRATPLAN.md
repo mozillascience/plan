@@ -2,9 +2,9 @@
 **We work to make research collaborative, accessible, and usable.**
 
 We do this by:
-* Facilitating project-based learning around open data and open source;
 * Empowering the next generation of leaders through fellowships and mentorship;
-* And supporting a growing community of researchers working openly.
+* Facilitating project-based learning around open data and open source;
+* Advocating for and supporting a growing community of researchers working openly.
 
 #### MISSION ACCOMPLISHED
 **We are done when working openly and collaboratively, data sharing and reuse, and research communication are integral to research practice and a self-sustaining network of people working openly grows and expands into the future.**
