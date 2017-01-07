@@ -2,11 +2,11 @@ Mozilla Science Lab
 
 Professional Development Info & Process
 
-<em>Updated: March 2, 2016</em>
+<em>Updated: Jan 7, 2017</em>
 
 #How to file a request:#
 
-(1) Take your best go at the questions below, and send to your manager (Kaitlin, in this case).
+(1) Take your best go at the questions below, and send to your manager (Steph, in this case).
 
     What is the development opportunity?:
 
@@ -25,4 +25,4 @@ Professional Development Info & Process
 
 (4) Awaiting final confirmation, you're all set. :) 
 
-<strong>Point of contact:</strong> Kaitlin Thaney - kaitlin @ mozillafoundation.org
+<strong>Point of contact:</strong> Steph Wright - stephanie @ mozillafoundation.org
